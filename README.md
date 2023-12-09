@@ -1,5 +1,5 @@
 # I310D-Final-Report-Code
-This is a  code repository containing instructions on how to run the code used in our analysis of Telco.
+This is a code repository containing instructions on how to run the code used in our analysis of Telco.
 
 Overview
 
